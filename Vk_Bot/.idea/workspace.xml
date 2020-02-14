@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63a51786-c483-4395-ab21-2b4566de9076" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/user.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Vk_Bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Vk_Bot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +33,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Repo/PyCharm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -75,25 +80,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1256" height="395" key="GridCell.Tab.0.bottom" timestamp="1581274840313">
+    <state x="960" y="421" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581602337901">
       <screen x="0" y="0" width="2560" height="1384" />
     </state>
-    <state width="1256" height="395" key="GridCell.Tab.0.bottom/0.0.2560.1384@0.0.2560.1384" timestamp="1581274840313" />
-    <state width="1256" height="395" key="GridCell.Tab.0.center" timestamp="1581274840313">
+    <state x="960" y="421" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1384@0.0.2560.1384" timestamp="1581602337901" />
+    <state width="1256" height="395" key="GridCell.Tab.0.bottom" timestamp="1581607500362">
       <screen x="0" y="0" width="2560" height="1384" />
     </state>
-    <state width="1256" height="395" key="GridCell.Tab.0.center/0.0.2560.1384@0.0.2560.1384" timestamp="1581274840313" />
-    <state width="1256" height="395" key="GridCell.Tab.0.left" timestamp="1581274840313">
+    <state width="1256" height="395" key="GridCell.Tab.0.bottom/0.0.2560.1384@0.0.2560.1384" timestamp="1581607500362" />
+    <state width="1256" height="395" key="GridCell.Tab.0.center" timestamp="1581607500362">
       <screen x="0" y="0" width="2560" height="1384" />
     </state>
-    <state width="1256" height="395" key="GridCell.Tab.0.left/0.0.2560.1384@0.0.2560.1384" timestamp="1581274840313" />
-    <state width="1256" height="395" key="GridCell.Tab.0.right" timestamp="1581274840313">
+    <state width="1256" height="395" key="GridCell.Tab.0.center/0.0.2560.1384@0.0.2560.1384" timestamp="1581607500362" />
+    <state width="1256" height="395" key="GridCell.Tab.0.left" timestamp="1581607500362">
       <screen x="0" y="0" width="2560" height="1384" />
     </state>
-    <state width="1256" height="395" key="GridCell.Tab.0.right/0.0.2560.1384@0.0.2560.1384" timestamp="1581274840313" />
-    <state x="342" y="517" key="com.intellij.ide.util.TipDialog" timestamp="1581350212187">
+    <state width="1256" height="395" key="GridCell.Tab.0.left/0.0.2560.1384@0.0.2560.1384" timestamp="1581607500362" />
+    <state width="1256" height="395" key="GridCell.Tab.0.right" timestamp="1581607500362">
       <screen x="0" y="0" width="2560" height="1384" />
     </state>
-    <state x="342" y="517" key="com.intellij.ide.util.TipDialog/0.0.2560.1384@0.0.2560.1384" timestamp="1581350212187" />
+    <state width="1256" height="395" key="GridCell.Tab.0.right/0.0.2560.1384@0.0.2560.1384" timestamp="1581607500362" />
+    <state x="148" y="335" key="SettingsEditor" timestamp="1581602375744">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="148" y="335" key="SettingsEditor/0.0.2560.1384@0.0.2560.1384" timestamp="1581602375744" />
+    <state x="342" y="517" key="com.intellij.ide.util.TipDialog" timestamp="1581602347550">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="342" y="517" key="com.intellij.ide.util.TipDialog/0.0.2560.1384@0.0.2560.1384" timestamp="1581602347550" />
+    <state x="1089" y="610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581602328346">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="1089" y="610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1384@0.0.2560.1384" timestamp="1581602328346" />
+    <state x="943" y="311" key="search.everywhere.popup" timestamp="1581605815596">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="943" y="311" key="search.everywhere.popup/0.0.2560.1384@0.0.2560.1384" timestamp="1581605815596" />
   </component>
 </project>
